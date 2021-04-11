@@ -17,3 +17,6 @@ See the License for the specific language governing permissions and
 limitations under the License.
 ## Description 
 First assignment for lecture Open Source Energy System Modelling 
+In this project I have implemented calculation of electricity bill depending on the type of the user and amount of the electricity consumed. 
+If user is residental, different calculations are applied, if it is comercial, higher amount of the bill must be paid. 
+
