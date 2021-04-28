@@ -4,7 +4,7 @@ cat = int ( input ( "Choose Category: " ))
 unitsH = int(input(" Please enter Number of Units in Higher Tariff you Consumed : "))
 unitsL = int(input(" Please enter Number of Units in Lower Tariff you Consumed : "))
 
-if (cat==1):
+if (cat==1): 
     a=5;
 elif (cat==2):
     a=10;
